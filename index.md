@@ -4,14 +4,14 @@
 ### ``Docs``
 
 ```sh
-https://jio-savan-api-iota.vercel.app/Docs
+https://savan.api.imlasiya.ml/Docs
 ```
 <br>
 
 ### ``Search ``
 
 ```sh
-https://jio-savan-api-iota.vercel.app/result/?query=alone
+https://savan.api.imlasiya.ml/result/?query=alone
 ```
 
 <br>
@@ -19,7 +19,7 @@ https://jio-savan-api-iota.vercel.app/result/?query=alone
 ### ``Get Data Via Link  ``
 
 ```sh
-https://jio-savan-api-iota.vercel.app/song/?query=https://www.jiosaavn.com/song/khairiyat/PwAFSRNpAWw
+https://savan.api.imlasiya.ml/song/?query=https://www.jiosaavn.com/song/khairiyat/PwAFSRNpAWw
 ```
 
 <br>
